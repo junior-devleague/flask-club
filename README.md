@@ -39,4 +39,4 @@ The end result will be, if NyanCat sends a post request to `/users/` with a user
 7. Implement a password so that only users who know the password can create pages. Reject any requests without the password.
 
 ###Resources
-[](http://flask.pocoo.org/docs/0.12/quickstart/)
+[Flask Docs](http://flask.pocoo.org/docs/0.12/quickstart/)
